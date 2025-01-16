@@ -1,0 +1,7 @@
+Raj,008,Jogja
+Wasis,002,Jogja
+Sigit,055,Jogja
+Raj,008,Jogja
+Raj,008,Jogja
+Wasis,002,Jogja
+Sigit,055,Jogja
